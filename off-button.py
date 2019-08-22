@@ -1,4 +1,6 @@
-# this script uses the onboard switch to safely turn off your Pi via the sudo shutdown now command
+#this script uses the onboard switch to safely turn off your Pi via the sudo shutdown now command
+#This script has been modified for the Coral Enviromental Sensor Board
+#
 #
 #!/bin/python
 #This script was authored by AndrewH7 and belongs to him (www.instructables.com$
